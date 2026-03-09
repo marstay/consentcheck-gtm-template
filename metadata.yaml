@@ -1,7 +1,7 @@
 homepage: "https://consentcheck.online"
 documentation: "https://consentcheck.online/consent-mode-snippet"
 versions:
-  - sha: PLACEHOLDER_REPLACE_WITH_FIRST_COMMIT_SHA
+  - sha: b0f05f5b8be85f5191fa722f6dbd37585ff6827e
     changeNotes: |
       Initial release.
       Consent Mode v2 default-denied tag. Fire on Consent Initialization - All Pages.
