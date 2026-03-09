@@ -1,0 +1,8 @@
+homepage: "https://consentcheck.online"
+documentation: "https://consentcheck.online/consent-mode-snippet"
+versions:
+  - sha: PLACEHOLDER_REPLACE_WITH_FIRST_COMMIT_SHA
+    changeNotes: |
+      Initial release.
+      Consent Mode v2 default-denied tag. Fire on Consent Initialization - All Pages.
+      Wire your CMP to updateConsentState when users accept. Verify at consentcheck.online.
